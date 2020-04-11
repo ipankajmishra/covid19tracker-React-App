@@ -1,0 +1,34 @@
+.Table{
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 95% !important;
+}
+
+.TableHeader{
+    background-color: rgb(219, 73, 73);
+    font-size: 18px;
+    color: blanchedalmond;
+    margin-top: 10px;
+    
+}
+
+.cardCustom{
+    border-radius: 0px!important;
+    align-content: center;
+    text-align: center;
+}
+
+.TdText{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tablecard{
+   
+}
+
+.tableContainer{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}

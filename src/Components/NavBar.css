@@ -1,0 +1,50 @@
+.body{
+     /* color: crimson; */
+}
+.container{
+    height: 100px;
+}
+
+.searchBar3{
+    /* height: 40px!important;
+    background-color: rgb(255, 255, 255);
+    width: 25vw; */
+    color: rgb(255, 255, 255);
+    display: inline-block;
+}
+
+.inlinesearch{
+    display: inline-block;
+    /* width: 60vw; */
+}
+.blanckdiv{
+    height: 20px;
+}
+
+.searchBarParentDiv{
+    display: inline-block;
+    margin-right: 0!important;
+}
+
+.searchInput{
+    width: 18vw;
+    height: 38px;
+    border-radius: 5px;
+    /* color: crimson!important; */
+}
+
+input {padding: 0 10px}
+
+
+@media only screen and (max-width: 1070px) {
+    .searchBar3{
+        /* height: 40px!important;
+        background-color: rgb(255, 255, 255);
+        width: 30vw;
+        margin-left: -200px; */
+    }
+    .searchInput{
+        width: 50vw;
+        margin-left: -180px;
+    }
+}

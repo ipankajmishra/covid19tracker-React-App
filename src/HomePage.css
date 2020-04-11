@@ -1,0 +1,35 @@
+.body{
+    background-color: #1d2124;
+}
+
+.cardTop{
+    width: 20vw;
+    margin-left: 10px;
+}
+.imgCard{
+    height: 75px;
+    width: 80px;
+    margin-left: 80px;
+    align-items: center;
+}
+
+.cardtexttop{
+    font-size: 32px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1070px) {
+    .cardTop{
+        margin-left: 6vw;
+        width:  80vw;
+        margin-right: 10vw;
+        margin-top: 9px;
+    }
+    .body{
+        background-color: 1d2124;
+        width: 100vw;
+    }
+    
+    
+}
+
