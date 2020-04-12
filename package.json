@@ -1,5 +1,6 @@
 {
-  "name": "movie_app",
+  "name": "covid19tracker",
+  "homepage": "https://covid19tracker.hapington.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
